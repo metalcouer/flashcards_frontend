@@ -70,7 +70,7 @@ class App extends Component {
   //   fetch('http://localhost:3000/flashcards_db')
   //     .then(data => data.json())
   //       .then(JSONdata => {
-  //         this.setState({songs: JSONdata.data.songs})
+  //         this.setState({methods: JSONdata.data.})
   //       })
   // }
 
